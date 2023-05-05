@@ -1,3 +1,5 @@
+# create a function to swap the case of every character in a string entered
+
 def swap_case(s):
     new_case = []
     for char in s:
